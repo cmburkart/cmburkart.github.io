@@ -12,12 +12,11 @@
    width="297mm"
    height="210mm"
    viewBox="0 0 1052.3622 744.09448"
-   id="svg3347"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="unit 2 drawing.svg">
+   inkscape:version="0.91 r13725">
   <defs
-     id="defs3349" />
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-46.428571"
+     inkscape:cx="-43.571429"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -38,10 +37,10 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid6046" />
+       id="grid3355" />
   </sodipodi:namedview>
   <metadata
-     id="metadata3352">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -58,226 +57,160 @@
      id="layer1"
      transform="translate(0,-308.26772)">
     <ellipse
-       style="fill:#999999"
-       id="path5187"
-       cx="194.28572"
-       cy="493.79077"
-       rx="122.85714"
-       ry="98.571426" />
+       style="fill:#808080;fill-opacity:1"
+       id="path3336"
+       cx="172.85715"
+       cy="472.36221"
+       rx="118.57143"
+       ry="105.71429" />
     <rect
-       style="fill:#999999"
-       id="rect6013"
-       width="574.28571"
-       height="97.14286"
-       x="425.71429"
+       style="fill:#808080;fill-opacity:1"
+       id="rect3344"
+       width="582.85712"
+       height="82.85714"
+       x="414.28571"
        y="423.79077" />
     <rect
-       style="fill:#999999"
-       id="rect6015"
-       width="228.57143"
-       height="68.571426"
-       x="85.714287"
-       y="666.64789" />
+       style="fill:#808080;fill-opacity:1"
+       id="rect3346"
+       width="520"
+       height="380"
+       x="448.57144"
+       y="546.64795" />
     <rect
-       style="fill:#999999"
-       id="rect6021"
-       width="208.57143"
-       height="188.57143"
-       x="94.285713"
-       y="789.50507"
-       ry="0" />
+       style="fill:#808080;fill-opacity:1"
+       id="rect3351"
+       width="242.85715"
+       height="65.714287"
+       x="60"
+       y="640.93365" />
     <rect
-       style="fill:#999999"
-       id="rect6026"
-       width="462.85715"
-       height="400"
-       x="474.28571"
-       y="580.93365" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6038"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion6040"><rect
-           id="rect6042"
-           width="25.714285"
-           height="68.571426"
-           x="188.57143"
-           y="449.80878" /></flowRegion><flowPara
-         id="flowPara6044"></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="560"
-       y="492.36221"
-       id="text6048"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6050"
-         x="560"
-         y="492.36221" /></text>
+       style="fill:#808080;fill-opacity:1"
+       id="rect3353"
+       width="242.85715"
+       height="168.57143"
+       x="65.714287"
+       y="755.21936" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
-       y="492.36221"
-       id="text6052"
+       x="120"
+       y="452.36221"
+       id="text3357"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6054"
-         x="520"
-         y="492.36221" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="200"
-       y="492.36221"
-       id="text6056"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6058"
-         x="200"
-         y="492.36221" /></text>
+         id="tspan3359"
+         x="120"
+         y="452.36221">Profile</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="160"
        y="492.36221"
-       id="text6060"
+       id="text3361"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6062"
+         id="tspan3363"
          x="160"
-         y="492.36221" /></text>
+         y="492.36221">Pic</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
+       x="440"
        y="492.36221"
-       id="text6064"
+       id="text3365"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6066"
-         x="120"
-         y="492.36221">Profile </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160"
-       y="532.36218"
-       id="text6068"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6070"
-         x="160"
-         y="532.36218">Pic</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
-       y="812.36218"
-       id="text6072"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6074"
-         x="120"
-         y="812.36218" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
-       y="852.36218"
-       id="text6076"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6078"
-         x="120"
-         y="852.36218">Contact</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160"
-       y="892.36218"
-       id="text6080"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6082"
-         x="160"
-         y="892.36218">Info</tspan></text>
+         id="tspan3367"
+         x="440"
+         y="492.36221">Company Name/Logo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="480"
-       y="492.36221"
-       id="text6084"
+       y="612.36218"
+       id="text3369"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6086"
+         id="tspan3371"
          x="480"
-         y="492.36221">Company Name Logo</tspan></text>
+         y="612.36218">examples of how our</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120"
-       y="732.36218"
-       id="text6088"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6090"
-         x="120"
-         y="732.36218">Name</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
-       y="652.36218"
-       id="text6092"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6094"
-         x="520"
-         y="652.36218">Examples of how </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
+       x="480"
        y="692.36218"
-       id="text6096"
+       id="text3373"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6098"
-         x="520"
-         y="692.36218">we make our clients</tspan></text>
+         id="tspan3375"
+         x="480"
+         y="692.36218">clients make more $$$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
-       y="732.36218"
-       id="text6100"
+       x="480"
+       y="772.36218"
+       id="text3377"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6102"
-         x="520"
-         y="732.36218">more money</tspan></text>
+         id="tspan3379"
+         x="480"
+         y="772.36218">utilizing our expertise</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
-       y="812.36218"
-       id="text6104"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6106"
-         x="520"
-         y="812.36218">roll over click on</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="520"
+       x="480"
        y="852.36218"
-       id="text6108"
+       id="text3381"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6110"
-         x="520"
-         y="852.36218">for more detail</tspan></text>
+         id="tspan3383"
+         x="480"
+         y="852.36218">roll over and click to </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="480"
+       y="892.36218"
+       id="text3385"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="480"
+         y="892.36218">open each example</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80"
+       y="692.36218"
+       id="text3389"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3391"
+         x="80"
+         y="692.36218">Team</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80"
+       y="812.36218"
+       id="text3393"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3395"
+         x="80"
+         y="812.36218">Contact </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80"
+       y="892.36218"
+       id="text3397"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="80"
+         y="892.36218">Info</tspan></text>
   </g>
 </svg>
