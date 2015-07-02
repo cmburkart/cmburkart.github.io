@@ -1,0 +1,24 @@
+body {
+	background-color: #00ffff;
+	font-style: Georgia
+	
+}
+
+h1 {	text-align: center;
+	color: #59422e;
+	font-size: 36px
+	font-weight: 700;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p {	text-align: center;
+	color: #59422e;	
+	font-size:30px
+}
+
+ul {	text-align: center;
+	list-style-type: none;
+	color: #59422e; 
+	font-size: 24px;
+}
