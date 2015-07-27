@@ -32,9 +32,9 @@ img {
 
 	float: left;
 	display: block;
-	width: 27%;
+	width: 25%;
 	padding: 2%;
-	display: inline-block;
+	display: block;
 }
 footer {
 	float: right;
