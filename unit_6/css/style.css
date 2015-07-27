@@ -1,5 +1,6 @@
 body { font-size: 18px;
 font-family: 'Montserrat', sans-serif;
+background: 
 }
 h1,h2 {
 	text-transform: uppercase;
@@ -16,24 +17,26 @@ h2 {
 	font-color: 3BE3E6
 	
 }
-nav a{
+nav {
 	float: left;
-	margin: 40px;
+	background-color: #E3FFC9
+	margin: 30px;
 	font-size: 20px;
 	font-weight: 500
-	font-color: #54CC14;
+	font-color: #C9FFEF;
 }
+
 img {
 	display: block;
 	width: 100%;
 	margin: 0,
 }
 #menu photo {
+	display: inline-block;
 	float: left;
-	display: block;
 	width: 25%;
 	padding: 2%;
-	display: inline-block;
+	
 }
 footer {
 	float: right;
