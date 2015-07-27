@@ -14,11 +14,11 @@ h1 {
 h2 {
 	font-size: 2em;
 	font-color: 3BE3E6
-	Background: black
+	
 }
-nav {
+nav a{
 	float: left;
-	margin: 5em,5em,5em,5em;
+	margin: 40px;
 	font-size: 20px;
 	font-weight: 500
 	font-color: #54CC14;
@@ -29,7 +29,6 @@ img {
 	margin: 0,
 }
 #menu photo {
-
 	float: left;
 	display: block;
 	width: 25%;
