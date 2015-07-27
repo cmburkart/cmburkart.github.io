@@ -16,12 +16,12 @@ h2 {
 	font-color: 3BE3E6
 	Background: black
 }
-nav #{
+nav # {
 	float: left;
-	margin: 2em,2em,2em,2em;
+	margin: 5em,5em,5em,5em;
 	font-size: 20px;
 	font-weight: 500
-	font-color:0D0D0D;
+	font-color: #54CC14;
 }
 img {
 	display: block;
@@ -30,6 +30,7 @@ img {
 }
 #menu photo {
 
+	float: left;
 	display: block;
 	width: 27%;
 	padding: 2%;
