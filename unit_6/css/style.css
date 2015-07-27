@@ -34,7 +34,7 @@ img {
 	display: block;
 	width: 25%;
 	padding: 2%;
-	display: block;
+	display: inline-block;
 }
 footer {
 	float: right;
