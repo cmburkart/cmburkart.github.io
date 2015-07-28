@@ -18,7 +18,8 @@ h1 {
 	font-color:#503E4B;
 
 }
-p {
+p #slogan{
+	font-size: 2em
 	padding-right: 40%;
 	padding-left: 40%;
 }
@@ -28,9 +29,7 @@ h2 {
 	
 }
 nav{
-  background-color:#eee;
-  width:400px;
-  margin:20px auto;
+  margin:40px auto;
   padding:40px;
   float: left;
 }
@@ -39,7 +38,7 @@ a:link{
   margin:20px;
   text-decoration:none;
   text-transform:uppercase;
-  font-family:sans-serif;
+  font-family: 'Montserrat' sans-serif;
   color:#47153D;
 }
 
