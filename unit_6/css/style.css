@@ -18,8 +18,9 @@ h1 {
 	font-color:#503E4B;
 
 }
-p #slogan{
+#slogan {
 	font-size: 2em
+	font-family: 'Montserrat' sans-serif;
 	padding-right: 40%;
 	padding-left: 40%;
 }
