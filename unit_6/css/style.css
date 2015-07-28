@@ -12,8 +12,7 @@ h1,h2 {
 h1 {
 	font-size: 3em;
 	background: 3BE3E6;
-	padding-right: 20%;
-	padding-left: 30%;
+	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-color:#503E4B;
 }
