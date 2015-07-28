@@ -32,6 +32,7 @@ nav{
   width:400px;
   margin:20px auto;
   padding:40px;
+  float: left;
 }
 
 a:link{
