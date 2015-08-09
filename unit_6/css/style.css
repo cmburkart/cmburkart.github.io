@@ -11,6 +11,7 @@ h1,h2 {
 }
 h1 {
 	font-size: 3em;
+	letter-spacing: .25em;
 	background: 3BE3E6;
 	text-align: center;
 	font-family: 'Lobster', cursive;
@@ -60,8 +61,8 @@ img {
 .photos {
 	display: inline-block;
 	float: left;
-	width: 25%;
-	padding: 2%;
+	width: 20%;
+	padding: 1%;
 	
 }
 footer {
