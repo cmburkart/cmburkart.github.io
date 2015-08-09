@@ -68,7 +68,7 @@ img {
 #porkchop, #italian, #chicken {
 	float: left;
 	display: inline;
-	width: 330px;
+	width: 200px;
 	padding: 10px;
 }
 
