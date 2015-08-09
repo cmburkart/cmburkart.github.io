@@ -49,7 +49,7 @@ a:active{
   color:#FA2719;
 }
 
-p#slogan{
+#slogan {
 	text-align: center;
 }
 img {
@@ -57,7 +57,7 @@ img {
 	width: 100%;
 	margin: 0,
 }
-#menu photo {
+.photos {
 	display: inline-block;
 	float: left;
 	width: 25%;
