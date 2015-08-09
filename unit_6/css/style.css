@@ -59,7 +59,7 @@ img {
 	margin: 0,
 }
 
-#porkchop
+	#porkchop,#italian,#chicken 
 {
 	display: inline-block;
 	float: left;
