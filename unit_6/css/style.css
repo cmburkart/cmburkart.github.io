@@ -58,12 +58,16 @@ img {
 	width: 100%;
 	margin: 0,
 }
-.photos {
-	display: inline;
-	width: 25%;
+#porkchops, #italian, #chicken
+{
+	display: inline-table;
+	float: left;
+	width: 30%
 	padding: 1%;
 	margin: 1%
 }
+}
+
 .clearfix:after {
 	content: ".";
 	visibility: hidden;
