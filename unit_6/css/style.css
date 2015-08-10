@@ -1,6 +1,6 @@
 body { font-size: 16px;
 font-family: 'Montserrat', sans-serif;
-background:#E3FFC9;
+background-image: ;
 }
 
 h1,h2 {
@@ -63,7 +63,7 @@ img {
 {
 	display: inline-block;
 	float: left;
-	width: 30%
+	width: 33.33%
 }
 .clearfix:after {
 	content: ".";
