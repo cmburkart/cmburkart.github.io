@@ -96,3 +96,7 @@ footer {
 @media screen and (max-width:900px){
 	.gallery{}
 }
+@media screen (max-width: 543px){ 
+	nav{
+		
+	}
