@@ -25,7 +25,7 @@ h2 {
 }
 nav{
   margin: auto;
-  width: 509px;
+  text-align: center;
 }
 span
 {padding: 0 15px;
@@ -96,5 +96,3 @@ footer {
 @media screen and (max-width:900px){
 	.gallery{}
 }
-@media screen (max-width: 460px){ 
-	nav float: none}
