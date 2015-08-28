@@ -31,7 +31,7 @@ span
 {padding: 0 15px;
 }
 
-a:link{
+nav a:link{
   margin:20px;
   text-decoration:none;
   text-transform:uppercase;
@@ -39,18 +39,18 @@ a:link{
   color:#DFD3B6;
 }
 
-a:visited{
+nav a:visited{
   color:inherit;
 }
 
-a:hover{
+nav a:hover{
   color:#545454;
   border-bottom:3px solid #545454;
   padding:0 0 2px;
   background-color:#E8D6B7;
 }
 
-a:active{
+nav a:active{
   color:#FA2719;
 }
 #slogan {
@@ -72,7 +72,6 @@ img {
 }
 
 .gallery {
-    border: 1px solid rgb(150,150,150); 
  	margin: 1%; 
 	padding: 1%;  	 
 	background-color: rgba(250,250,250,0.5);}
@@ -96,7 +95,10 @@ footer {
 @media screen and (max-width:900px){
 	.gallery{}
 }
-@media screen (max-width: 543px){ 
-	nav{
+@media screen and (max-width: 543px){ 
+	nav a{
+		display:block;
+	#slogan
+		font-size: 1.50em 
 		
 	}
